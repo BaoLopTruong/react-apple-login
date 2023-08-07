@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-apple-login/static/css/main.536e33e5.css",
-    "main.js": "/react-apple-login/static/js/main.0b1ff421.js",
+    "main.js": "/react-apple-login/static/js/main.a4f1f085.js",
     "static/js/787.cad8da19.chunk.js": "/react-apple-login/static/js/787.cad8da19.chunk.js",
     "index.html": "/react-apple-login/index.html",
     "main.536e33e5.css.map": "/react-apple-login/static/css/main.536e33e5.css.map",
-    "main.0b1ff421.js.map": "/react-apple-login/static/js/main.0b1ff421.js.map",
+    "main.a4f1f085.js.map": "/react-apple-login/static/js/main.a4f1f085.js.map",
     "787.cad8da19.chunk.js.map": "/react-apple-login/static/js/787.cad8da19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.536e33e5.css",
-    "static/js/main.0b1ff421.js"
+    "static/js/main.a4f1f085.js"
   ]
 }
