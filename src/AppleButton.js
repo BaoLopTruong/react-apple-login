@@ -24,7 +24,7 @@ class AppleButton extends React.Component {
             {Object.keys(this.state.authResponse).length === 0 ? (
               <AppleLogin
                 clientId="com.messageclub.app"
-                redirectURI="https://care-aid-dev.689cloud.com/auth/worker/login"
+                redirectURI="https://baoloptruong.github.io/react-apple-login"
                 usePopup={true}
                 callback={this.appleResponse}
                 scope="email name"
