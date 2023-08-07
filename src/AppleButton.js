@@ -10,7 +10,7 @@ class AppleButton extends React.Component {
   appleResponse = response => {
     if (!response.error) {
       axios
-        .post("/auth", response)
+        .post("/react-apple-login", response)
         .then(res => {this.setState({ authResponse: res.data }); console.log('data', res)})
         .catch(err => console.log(err));
     }
